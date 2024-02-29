@@ -1,0 +1,191 @@
+#top {
+    background: rgba(2, 27, 22, 0.45) url(/assets/images/demo/company/banner.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    background-blend-mode: overlay;
+}
+
+#quotes {
+    a {
+        text-decoration: none;
+    }
+
+    h1 {
+        line-height: 60px;
+    }
+
+    /* transform: translate(45%, 44%); */
+}
+
+#head1 {
+    font-size: 70px;
+}
+
+#btn-no {
+    display: inline-block;
+    transform: translate(50px, 18px);
+}
+
+#head2 {
+    font-size: 45px;
+}
+
+#form {
+    background-color: white;
+}
+
+#form {
+    background-color: rgb(255, 255, 255);
+    margin-top: -20%;
+}
+
+#About {
+    background-image: url(/assets/images/demo/company/bg-lines.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-control,
+.form-select,
+#btn2 {
+    height: 50px;
+
+}
+
+#name,
+#email,
+#select {
+    background-color: rgb(240, 234, 234);
+}
+
+#box1 {
+    background-color: rgb(245, 243, 243);
+    padding: 15px;
+}
+
+#Innovation {
+    background: rgba(2, 27, 22, 0.8) url(/assets/images/demo/company/fixed-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 40vh;
+    background-blend-mode: darken;
+
+}
+
+#para1 {
+    font-size: 35px;
+    line-height: 35px;
+}
+
+#flip1 {
+    background: rgba(2, 27, 22, 0.4) url(/assets/images/demo/company/flip-img-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 68vh;
+    background-blend-mode: color-burn;
+}
+
+#flip2 {
+    background: rgba(2, 27, 22, 0.4) url(/assets/images/demo/company/flip-img-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 68vh;
+    background-blend-mode: color-burn;
+}
+
+#flip3 {
+    background: rgba(2, 27, 22, 0.4)url(/assets/images/demo/company/flip-img-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 68vh;
+    background-blend-mode: color-burn;
+}
+
+#btn3 {
+    margin-top: 60%;
+
+}
+
+#para2 {
+    font-size: 40px;
+    line-height: 40px;
+}
+
+#head3 {
+    font-size: 40px;
+}
+
+#photo1 {
+    height: 270px;
+}
+
+#photo2 {
+    height: 300px;
+}
+
+#serve {
+    background-color: blanchedalmond;
+}
+
+#wedo1 {
+    height: 270px;
+}
+
+#wedo2 {
+    height: 380px;
+    width: 300px;
+    /* right: 45px;
+    bottom: -50px; */
+    transform: translate(-43px, 90px);
+}
+
+#cards,
+#cards-head {
+    border: none;
+}
+
+#step1 {
+    margin-top: 15%;
+}
+
+#steps {
+    display: flex;
+}
+
+#testemonials {
+    background-image: linear-gradient(to right, rgb(6, 58, 50), rgb(23 58 66), rgb(58 100 80/35%)), url(/assets/images/demo/company/testimonials.jpg);
+    min-height: 66vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#card1 {
+    border-style: none;
+}
+
+#head4 {
+    border-style: none;
+    background-color: white;
+}
+
+#end {
+
+    background-color: rgb(6 60 50);
+
+}
+
+#para3 {
+    font-size: 16px;
+}
+
+#usr1 {
+    right: 30px;
+    top: 80px;
+}
+
+#usr2 {
+    top: 150px;
+    right: 30px;
+}
